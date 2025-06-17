@@ -5,7 +5,7 @@ import './App.css'
 function App() {
 
   return (
-    <BrowserRouter basename='/Yashrxx/TAT-DataServer'>
+    <BrowserRouter basename='/TAT-DataServer'>
     <Routes>
       <Route path='/' element={<Content/>}/>
     </Routes>
