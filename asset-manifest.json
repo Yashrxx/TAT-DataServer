@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Yashrxx/TAT-DataServer/static/css/main.00b36db6.css",
-    "main.js": "/Yashrxx/TAT-DataServer/static/js/main.a1a82823.js",
+    "main.css": "/Yashrxx/TAT-DataServer/static/css/main.6270375a.css",
+    "main.js": "/Yashrxx/TAT-DataServer/static/js/main.e4e6017e.js",
     "static/js/453.655b27de.chunk.js": "/Yashrxx/TAT-DataServer/static/js/453.655b27de.chunk.js",
     "index.html": "/Yashrxx/TAT-DataServer/index.html",
-    "main.00b36db6.css.map": "/Yashrxx/TAT-DataServer/static/css/main.00b36db6.css.map",
-    "main.a1a82823.js.map": "/Yashrxx/TAT-DataServer/static/js/main.a1a82823.js.map",
+    "main.6270375a.css.map": "/Yashrxx/TAT-DataServer/static/css/main.6270375a.css.map",
+    "main.e4e6017e.js.map": "/Yashrxx/TAT-DataServer/static/js/main.e4e6017e.js.map",
     "453.655b27de.chunk.js.map": "/Yashrxx/TAT-DataServer/static/js/453.655b27de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00b36db6.css",
-    "static/js/main.a1a82823.js"
+    "static/css/main.6270375a.css",
+    "static/js/main.e4e6017e.js"
   ]
 }
