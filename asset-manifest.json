@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yashrxx/TAT-DataServer.git/static/css/main.00b36db6.css",
+    "main.js": "/Yashrxx/TAT-DataServer.git/static/js/main.692cd87a.js",
+    "static/js/453.655b27de.chunk.js": "/Yashrxx/TAT-DataServer.git/static/js/453.655b27de.chunk.js",
+    "index.html": "/Yashrxx/TAT-DataServer.git/index.html",
+    "main.00b36db6.css.map": "/Yashrxx/TAT-DataServer.git/static/css/main.00b36db6.css.map",
+    "main.692cd87a.js.map": "/Yashrxx/TAT-DataServer.git/static/js/main.692cd87a.js.map",
+    "453.655b27de.chunk.js.map": "/Yashrxx/TAT-DataServer.git/static/js/453.655b27de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00b36db6.css",
+    "static/js/main.692cd87a.js"
+  ]
+}
