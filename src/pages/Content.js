@@ -16,9 +16,7 @@ function Content(){
     const fetchData = async () => {
       try {
         const [dressRes, btxRes, txRes] = await Promise.all([
-          axios.get('https://tat-f2rq.onrender.com/api/auth/dress'),
-          axios.get('https://tat-f2rq.onrender.com/api/auth/btx'),
-          axios.get('https://tat-f2rq.onrender.com/api/auth/tx')
+          axios.get('https://tat-f2rq.onrender.com/api/auth/admin/data'),
         ]);
 
         setAllEntries(dressRes.data);
