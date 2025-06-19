@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TAT-DataServer/static/css/main.6270375a.css",
-    "main.js": "/TAT-DataServer/static/js/main.8235e3af.js",
+    "main.js": "/TAT-DataServer/static/js/main.01fc5374.js",
     "static/js/453.655b27de.chunk.js": "/TAT-DataServer/static/js/453.655b27de.chunk.js",
     "index.html": "/TAT-DataServer/index.html",
     "main.6270375a.css.map": "/TAT-DataServer/static/css/main.6270375a.css.map",
-    "main.8235e3af.js.map": "/TAT-DataServer/static/js/main.8235e3af.js.map",
+    "main.01fc5374.js.map": "/TAT-DataServer/static/js/main.01fc5374.js.map",
     "453.655b27de.chunk.js.map": "/TAT-DataServer/static/js/453.655b27de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6270375a.css",
-    "static/js/main.8235e3af.js"
+    "static/js/main.01fc5374.js"
   ]
 }
